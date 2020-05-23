@@ -1,0 +1,163 @@
+
+@media(max-width: 1399px){
+    .map-article h3 { font-size: 30px;}
+    
+}
+
+
+@media(max-width: 1199px){
+
+header .row { min-height: 650px;  }
+
+.responsive-content {  padding: 40px 0;}
+
+.img-section .row {padding-top: 90px;  padding-bottom: 90px;}
+
+.map-section {padding-top: 50px;}
+
+/*.map-section .row {
+    padding-top: 75px; }*/
+
+.map-article h3 {  font-size: 28px;}
+
+.map-article p {font-size: 17px;}
+
+.pricing-table .price h1 {font-size: 55px;}
+
+.pricing-table .price h1 strong {padding-bottom: 12px;}   
+
+.pricing-table h3 {font-size: 21px;}
+
+.pricing-table { padding: 12px !important;}
+
+.download-button {
+    margin-left: 80px;}
+ 
+ .download-now h1 {
+    font-size: 25px;}
+    button.btn.btn-download {
+    
+    font-size: 15px;}
+ 
+.about-footer a {padding-bottom: 1px;font-size: 24px;}
+
+    
+}
+
+
+@media(max-width: 991px){
+
+header .row { min-height: 520px;}
+.responsive-section {padding: 40px 0; }
+
+.responsive-content { padding: 20px 0;}
+
+.responsive-section > img {left: -75px;}
+
+.img-section .row {padding-top: 80px; padding-bottom: 80px;}
+
+.left-articae p { font-size: 17px;padding-right: 0;  }
+
+.map-article h3 {font-size: 26px;}
+    
+/*.map-section .row {padding-top: 50px; }*/
+
+.pricing-table .price h1 {font-size: 45px;}
+
+.pricing-table .price h1 strong {padding-bottom: 10px;}
+
+.pricing-table {padding: 10px !important;}
+
+.pricing-table h3 {font-size: 18px;}
+.plan-content .row .plan img {
+    width: 28px;}
+ .plan-content .row .plan li {
+    font-size: 15px;
+    }
+    .download-button {
+    margin-left: 60px;}
+    .download-now h1 {
+    font-size: 22px;}
+  button.btn.btn-download {
+    
+    font-size: 14px;}
+.about-footer a {padding-bottom: 3px;font-size: 24px;}
+}
+
+
+
+
+@media(max-width: 767px){
+
+header .row {min-height: 480px;}
+    
+.banner {text-align: center;}
+
+.banner h1 {font-size: 35px;color: #fff;font-weight: 600; }
+
+.banner p {font-size: 13px;color: #fff; }
+    
+.responsive-section {padding: 20px 0;}
+
+.responsive-content {padding: 15px 0;}
+    
+.responsive-section > img {left: -80px;}
+
+.img-section .row {padding-top: 60px; padding-bottom: 60px;}
+
+.left-articae p {text-align: justify; padding-right: 0;}
+
+.map-section .row {padding-left: 20px;}
+
+.map-article h3 {font-size: 24px;}
+
+.pricing-table .price h1 {font-size: 38px;}
+
+.pricing-table .price h1 strong {padding-bottom: 8px;}
+.plan.heading {margin-bottom: 0px !important;}
+.plan-content .row { padding:0;}
+
+
+.pricing-table {padding: 0 !important;border-right: 1px solid !important;border-left: 1px solid !important;}
+.plan-content .row .plan {
+    padding-top:20px;
+    }
+.download-button {
+    margin-left: 40px;}
+.about-footer a {padding-bottom: 8px;font-size: 25px;}
+}
+
+
+@media(max-width: 575px){
+
+.responsive-section {padding: 25px 0;}
+
+.responsive-section > img {display: none;}
+
+.responsive-section .row {justify-content: normal;} 
+ 
+
+.responsive-content {/* text-align: justify; */}
+
+.responsive-content h1 {font-size: 35px;font-weight: 600;text-align: center;padding-bottom: 20px;}
+
+.img-section .row { padding-top: 40px;padding-bottom: 40px;}
+
+.map-section {
+    display:block;}
+.map-img > img {display: none;}
+
+.map-article h3 { font-size: 22px;}
+
+.pricing-table .price h1 { font-size: 45px;}
+
+.newsletter { padding-top:20px;}
+ 
+.address-bar ul {padding-top: 20px;}
+
+.about-footer a {padding-bottom: 5px;font-size: 24px;}
+
+}
+
+
+
